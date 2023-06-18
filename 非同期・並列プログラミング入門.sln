@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallel-Tutorial", "Parallel-Tutorial\Parallel-Tutorial.csproj", "{691B567A-9EAC-4707-9751-E801DEDD7F0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{691B567A-9EAC-4707-9751-E801DEDD7F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691B567A-9EAC-4707-9751-E801DEDD7F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691B567A-9EAC-4707-9751-E801DEDD7F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691B567A-9EAC-4707-9751-E801DEDD7F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35EA2C43-6272-488F-816F-0EFEF1E77E50}
+	EndGlobalSection
+EndGlobal
